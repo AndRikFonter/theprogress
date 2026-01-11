@@ -1,0 +1,13 @@
+{
+  "itemGroup.theprogress": "Example Mod Tab",
+  "block.theprogress.example_block": "Example Block",
+  "item.theprogress.vlad_brain": "Vlad brain",
+
+  "theprogress.configuration.title": "The Progress Configs",
+  "theprogress.configuration.section.theprogress.common.toml": "The Progress Configs",
+  "theprogress.configuration.section.theprogress.common.toml.title": "The Progress Configs",
+  "theprogress.configuration.items": "Item List",
+  "theprogress.configuration.logDirtBlock": "Log Dirt Block",
+  "theprogress.configuration.magicNumberIntroduction": "Magic Number Text",
+  "theprogress.configuration.magicNumber": "Magic Number"
+}
